@@ -1,0 +1,4 @@
+interface:
+  display_name: "AE 动效包装工作流"
+  short_description: "从脚本、品牌参考到可编辑 AE 动效、分段预览与便携工程交付"
+  default_prompt: "使用 $ae-motion-packaging，根据我的脚本、品牌和参考，设计并制作可编辑的 AE 动效包装。"
