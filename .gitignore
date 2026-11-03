@@ -1,0 +1,19 @@
+# Local artifacts and production output
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.aep
+*.aepx
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.zip
+previews/
+renders/
+qa/
+Adobe After Effects Auto-Save/
